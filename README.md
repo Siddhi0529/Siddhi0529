@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Siddhi0529
+- 👋 Hi, I’m Siddhi Sharma
 - 👀 I’m interested in programming and web development
 - 🌱 I’m currently learning python 
 - 📫 How to reach me @siddhish007@gmail.com
